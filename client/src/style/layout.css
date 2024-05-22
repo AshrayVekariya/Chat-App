@@ -1,0 +1,9 @@
+.header {
+    /* background: linear-gradient(90deg, rgb(68, 72, 102) 48%, rgb(195, 201, 223) 98%); */
+    box-shadow: none !important;
+    border-bottom: 1px solid #0000001f;
+}
+
+.sidebar-bg{
+    background-color: #e1e8f2 !important;
+}

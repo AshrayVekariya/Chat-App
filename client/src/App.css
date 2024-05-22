@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Reddit+Sans:ital,wght@0,200..900;1,200..900&display=swap');
+
+:root {
+    --black-color: #495057;
+    --subtitle: #495057bf;
+}
+
+.black-color {
+    color: var(--black-color);
+}
+
+.subtitle-color {
+    color: var(--subtitle);
+}
+
+.font-style {
+    font-family: "Reddit Sans", sans-serif !important;
+}
+
+img {
+    height: auto;
+    width: auto;
+    max-width: 100%;
+    max-height: 100%;
+}
